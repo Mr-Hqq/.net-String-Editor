@@ -1,0 +1,29 @@
+c:\users\ehem\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\ehem\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\ehem\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\ehem\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\ehem\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\ehem\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\ehem\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\ehem\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\ehem\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\documents\Visual Studio 2012\Projects\string editor\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\documents\Visual Studio 2012\Projects\string editor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\documents\Visual Studio 2012\Projects\string editor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\documents\Visual Studio 2012\Projects\string editor\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\documents\Visual Studio 2012\Projects\string editor\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\documents\Visual Studio 2012\Projects\string editor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\documents\Visual Studio 2012\Projects\string editor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\documents\Visual Studio 2012\Projects\string editor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\documents\Visual Studio 2012\Projects\string editor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\documents\Visual Studio 2012\Projects\string editor\WindowsFormsApplication1\bin\Debug\Mono.Cecil.pdb
+D:\Projects - Copy\string editor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Projects - Copy\string editor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Projects - Copy\string editor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Projects - Copy\string editor\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Projects - Copy\string editor\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Projects - Copy\string editor\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Projects - Copy\string editor\WindowsFormsApplication1\bin\Debug\Mono.Cecil.pdb
+D:\Projects - Copy\string editor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Projects - Copy\string editor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Projects - Copy\string editor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
